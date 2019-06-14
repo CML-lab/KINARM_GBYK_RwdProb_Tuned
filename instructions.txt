@@ -1,0 +1,13 @@
+In this task, you will be controlling a cursor with your hand. You will see a gray start dot on the screen. When you move into the start dot, two potential targets will appear. After about a half of a second you will hear a beep.  Your goal is to reach out and hit the true target as soon as you hear the beep. However, we will not tell you which target is the true target until after you begin moving. Once you start your movement, the incorrect target will disappear, leaving only the true target visible.  
+
+The targets will range in color from red to blue.  The color of the targets represents how probable they are to be the true target.  The more red a target is, the more likely it will be the true target.  The opposite goes for blue, the bluer a target is, the less likely it is to be the true target. If you see a target that is equally red and blue, that means that it has a 50/50 chance of being the true target. However, just because a target is more red doesn't mean that it is guaranteed to be the true target; sometimes the target that is more blue will turn out to be the true target. 
+
+If you do hit the true target, then you will earn some money on that trial. Each target will have a cent value written above it that shows you how much money that target is worth. Your goal is to earn as much money as you can by hitting the true targets. Targets won't always be worth the same amount, however, so some correct hits will earn you more money than others.  
+
+Does that make sense?
+
+Again, the goal here is to make as much money as you can by hitting the correct targets.  Pay attention to the both the values and colors of the targets.
+
+Remember to wait until you hear the beep to start your reach, if you wait too long after the beep, you'll see a "too late" message.  Additionally, if your reach is too slow, you'll see a "too slow" message.
+
+Do you have any questions? 
