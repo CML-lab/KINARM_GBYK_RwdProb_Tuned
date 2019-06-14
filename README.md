@@ -1,2 +1,4 @@
 # KINARM_GBYK_RwdProb_Tuned
 GBYK_RwdProb with ability to tune reward values for direction-frequency matching
+
+This code performs essentially the same test as in KINARM_GBYK_RwdProb, except that it allows for two stages. In the first stage, targets are placed 180deg apart and participants are shown a large combination of probability and reward options. This data is analyzed offline to fit psychometric functions in order to tune, for each probability ratio, the reward ratio that should be offered such that the participant is equally likely to reach in either direction. In the second stage, targets are placed 45deg apart and participants are tested only for the reward ratios determined by the psychometric fits (manually input as taskwide parameters) in order to examine if there are any lingering biases in the intermediate reaches.
